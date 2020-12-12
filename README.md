@@ -1,1 +1,1 @@
-# data-structures-javascript
+# Data Structures in Javascript
